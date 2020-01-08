@@ -1,0 +1,22 @@
+Decorator 
+is a, has a
+add fuctionality
+decolope functionnality to compose them in the run time order
+
+Facade
+simplify(Hide) the complexity
+
+
+
+Adapter
+convert an interface
+ 
+ 
+Proxy
+before object
+controle access.
+
+
+bridge
+varie independantly
+
