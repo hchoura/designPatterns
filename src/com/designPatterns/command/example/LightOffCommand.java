@@ -1,9 +1,11 @@
-package com.designPatterns.command;
+package com.designPatterns.command.example;
+
+import com.designPatterns.command.ICommand;
 
 public class LightOffCommand implements ICommand {
   Light l;
 
-  LightOffCommand(Light l) {
+  public LightOffCommand(Light l) {
     this.l = l;
   }
 

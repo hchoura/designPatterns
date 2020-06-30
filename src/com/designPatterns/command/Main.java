@@ -1,5 +1,9 @@
 package com.designPatterns.command;
 
+import com.designPatterns.command.example.Light;
+import com.designPatterns.command.example.LightOffCommand;
+import com.designPatterns.command.example.LightOnCommand;
+
 /*
  * command pattern encapsulate a request (demand) as
  * an object thereby letting you parameterize other (command object) objects with

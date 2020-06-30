@@ -1,4 +1,6 @@
-package com.designPatterns.command;
+package com.designPatterns.command.example;
+
+import com.designPatterns.command.Receiver;
 
 public class Light extends Receiver {
 
