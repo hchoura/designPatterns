@@ -12,7 +12,7 @@ public class Main {
  * state    ---------------------------------
  * closed   c       proc     c       c
  * open     c       o        o       o
- * Proc     proc    pro      o       c
+ * Proc     proc    proc     o       c
  */
   
   public static void main(String[] args) {

@@ -31,7 +31,7 @@ public class OpenGateState implements GateState {
 
   @Override
   public void payFailed() {
-    System.out.println("the gate is open. Thanks for paymen");
+    System.out.println("the gate is open. Thanks for payment");
     // this.gate.changeState(new CloseGateState(this.gate));
   }
 
